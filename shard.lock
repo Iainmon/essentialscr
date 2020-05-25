@@ -1,0 +1,14 @@
+version: 1.0
+shards:
+  matplotcr:
+    github: iainmon/matplotcr
+    commit: 1bb817ae2c16e568c7e4de7a08d35fc7b53208d0
+
+  num:
+    github: iainmon/num.cr
+    commit: 55fdcf7dfe15e1b91aaa4ab7be9834d46eae80d3
+
+  opencl:
+    github: crystal-data/opencl.cr
+    commit: b0ba10a6bbd058da44d675f0082625e6d142d27e
+

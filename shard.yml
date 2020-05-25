@@ -1,0 +1,22 @@
+name: essentials
+version: 0.1.0
+
+authors:
+  - Iain Moncrief <iainmoncrief@gmail.com>
+
+# description: |
+#   Short description of essentialscr
+
+dependencies:
+  num:
+    github: iainmon/num.cr
+    branch: master
+  opencl:
+    github: crystal-data/opencl.cr
+
+development_dependencies:
+  matplotcr:
+    github: iainmon/matplotcr
+    branch: master
+
+license: MIT
